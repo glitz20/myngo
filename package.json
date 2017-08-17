@@ -1,0 +1,19 @@
+{
+  "name": "myngo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "sabin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^3.5.3",
+    "express-timestamp": "^0.1.4",
+    "express3-handlebars": "^0.5.2",
+    "moment": "^2.18.1",
+    "mongoose": "^4.11.7"
+  }
+}
